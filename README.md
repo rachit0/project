@@ -1,7 +1,9 @@
 # Assignment
  simple Task Management API using Node.js with Express
 
- ## Swagger API Endpoints
+# To start application use npm run dev to access the development server then with below swagger api documentation access the localhost server
+ 
+ ## Swagger API Documents :- http://localhost:3000/api-docs
 
  # Authentication
 POST /api/auth/register
